@@ -1,0 +1,39 @@
+body{
+    background-image: url("https://picsum.photos/1100/800");
+}
+
+.container{
+    /* border: 2px solid; */
+    height: 200px;
+    width: 250px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 10px;
+    background-color: rgba(100, 148, 237, 0.29);
+    padding-top: 10px;
+}
+
+h3{
+    /* border: 1px solid; */
+    text-align: center;
+}
+
+form{
+    /* border: 2px solid; */
+    text-align: center;
+}
+
+.child{
+    margin: 5px;
+}
+
+input{
+    border-radius: 10px 3px;
+    padding: 5px;
+    color: crimson;
+}
+
+.submit{
+    background-color: cyan;
+
+}
